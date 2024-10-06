@@ -31,10 +31,9 @@
             <Button
                 android:id="@+id/buAC"
                 android:text="AC"
-                
+
             />
-
-
+<!--jfvbdjkbdvkjbfvjdkbjdfkvbfdvjkbvfjbdfvjkbdvfjkbdfvjkbfvd-->
     </TableLayout>
 
 </LinearLayout>
